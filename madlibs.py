@@ -33,8 +33,8 @@ print(madlib)'''
 name = input("name:" )
 age = input("age:" )
 
-madlib = f"My name is {name} and I am {age} years old"
+madlib = "My name is {name} and I am {age} years old"
 
-print(madlib)
+print(f+madlib)
 
 
