@@ -1,3 +1,3 @@
 print("Hello world")
 print("Hello matey")
-1234
+MASTER MASTER MASTER
